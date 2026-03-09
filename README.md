@@ -45,6 +45,7 @@ Logout
 Each user has their own task file.
 
 **Sample users.txt file data**
+
 Test1,8a863b145dc6e4ed7ac41c08f7536c476ebac7509e028ed2b49f8bd5a3562b9f
 Test2,32e6e1e134f9cc8f14b05925667c118d19244aebce442d6fecd2ac38cdc97649
 Test3,68235f4551b9c6423df2af7ead63c90cdd4201ac08525bc3a41cd4755c6c86cb
@@ -52,6 +53,7 @@ Test4,b9cca56a720f2beee61f2e744ab3d20a95772a4315d18c5eee251a465f078012
 Test5,f9ca438226aae2a1aa8503da8fe3aa57aca7036ca0ad8a2a381bec25e188c48b
 
 **Sample username_tasks.txt file data**
+
 0,Test5 Desc 1,Pending
 1,Test5 Desc 2,Completed
 3,Test5 Desc 4,Pending
