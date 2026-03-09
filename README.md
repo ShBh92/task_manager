@@ -1,8 +1,12 @@
 **Task Manager with User Authentication (Python)**
+
 **Overview**
+
 This project is a command-line Task Manager application built using Python. It allows users to register, log in securely, and manage their personal tasks. Each user's tasks are stored separately, ensuring privacy and security.
 
+
 **Features**
+
 User Registration
 Secure Login using Password Hashing
 Add Tasks
