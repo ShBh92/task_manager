@@ -22,14 +22,9 @@ Python
 **Project Structure**
 
 task_manager/
-
-│
 ├── task_manager.py
-
 ├── users.txt - created on first user registration
-
 ├── {username}_tasks.txt - automatically created based on registered user creating task. Deleted if all tasks are deleted for the respective user
-
 └── README.md
 
 
