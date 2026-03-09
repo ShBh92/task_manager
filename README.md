@@ -17,6 +17,7 @@ Menu-driven command line interface
 File-based persistent storage
 
 **Technologies Used**
+
 Python
 
 **Project Structure**
